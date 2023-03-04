@@ -11,7 +11,7 @@ module.exports = {
         xl: "1280px",
       },
       spacing: {
-        "big": "40rem",
+        "big": "30rem",
         "heig": "10rem",
         "myleft": "50px"
       }
